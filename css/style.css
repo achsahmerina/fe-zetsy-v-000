@@ -27,3 +27,24 @@ h1 {
 	font-family: 'Baskerville', serif;
 	border-bottom: 1px solid #ccc;
 }
+
+h2 {
+	font-size: 2em;
+	color: rgb(118,124,122);
+}
+
+p {
+	color: #555;
+	font-size: 1em;
+}
+
+img {
+	border: 2px #444;
+}
+.small {
+	font-size: .8em;
+}
+
+footer {
+	text-align: right;
+}
